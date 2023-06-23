@@ -21,7 +21,7 @@ Datos:
 
 ![image](https://github.com/fvalenciac/CampoMagnetico/assets/106004991/6495e768-3d23-4e0c-aff1-d35bd2383eb6)
 
-La gráfica resultante mostrará la distribución del campo magnético alrededor del conductor rectilíneo en función de la distancia desde el conductor.
+La gráfica resultante nos mostrará la distribución del campo magnético alrededor del conductor rectilíneo en función de la distancia desde el conductor.
 
 ![image](https://github.com/fvalenciac/CampoMagnetico/assets/106004991/11bf3558-56c3-42f3-b456-6ee1ed822872)
 
