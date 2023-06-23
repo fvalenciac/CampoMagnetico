@@ -28,6 +28,6 @@ La gráfica resultante nos mostrará la distribución del campo magnético alred
 # Ejecucion del programa.
 
 - Se necesita tener instalado Python 3.9.13 64-bit, ya que al utilizar Python 3.10.4 64-bit me generaba un error en el numpy que no permite ejecutar el programa de forma correcta.
-- Una vez teniendo Python en el sistema se requiere de la instalacion de la biblioteca de matplotlib, la cual se puede instalar utilizando el siguiente comando en la termianl: pip install malplotlib.
-- Descargaremos el archivo llamado "campo_magnetico.py", le damos doble clic para abrir el archivo.
+- Una vez teniendo Python en el sistema se requiere de la instalacion de la biblioteca de matplotlib, la cual se puede instalar utilizando el siguiente comando en la terminal: pip install malplotlib.
+- Descargaremos el archivo llamado "campo_magnetico.py", y le daremos doble clic para abrir el archivo.
 - Una vez abierto lo ejecutamos en terminal y colocaremos los datos del problema planteado.
